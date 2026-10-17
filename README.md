@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm TeplayDev 👋
 
-<!--
-**teplaycom/teplaycom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Era baru menonton dari balik layar digital.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ About Me
+
+Saya membangun **TepiLayar** — platform Web TV Indonesia yang memungkinkan siaran TV ditonton langsung dari browser, gratis tanpa aplikasi.
+
+---
+
+### 🚀 Projects
+
+| Project | Deskripsi |
+|---|---|
+| 📺 **TepiLayar** | Web TV Indonesia · Nonton gratis langsung di browser |
+
+---
+
+### 🌐 Find Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-TepiLayar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@teplaycom)
+[![Instagram](https://img.shields.io/badge/Instagram-@teplaycom-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teplaycom/)
+[![X (Twitter)](https://img.shields.io/badge/X-@teplaycom-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/teplaycom)
+
+---
+
+<sub>© 2026 teplaycom · Web TV Indonesia</sub>
