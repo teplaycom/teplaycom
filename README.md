@@ -14,7 +14,7 @@ Saya membangun **TepiLayar** — platform Web TV Indonesia yang memungkinkan sia
 
 | Project | Deskripsi |
 |---|---|
-| 📺 **TepiLayar** | Web TV Indonesia · Nonton gratis langsung di browser |
+| 📺 **TepiLayar** | Layanan TV Streaming Online Gratis |
 
 ---
 
@@ -26,4 +26,4 @@ Saya membangun **TepiLayar** — platform Web TV Indonesia yang memungkinkan sia
 
 ---
 
-<sub>© 2026 teplaycom · Web TV Indonesia</sub>
+<sub>© 2026  TepiLayar — Layanan TV Streaming Online Gratis</sub>
